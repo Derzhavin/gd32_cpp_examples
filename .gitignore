@@ -1,0 +1,12 @@
+*.org
+.#*
+.gdb_history
+.vscode/
+**/build
+*.elf
+*.bin
+**/GD32F1x0_Firmware_Library_V3.5.0/
+*.7z
+*.zip
+*.tar
+*.gz
